@@ -87,7 +87,7 @@ h1 {
 }
 
 .section_2_banner_img {
-  background-image: url(../images/shapes/8.jpg);
+  background-image: url(./images/shapes/8.jpg);
   background-repeat: no-repeat;
   max-width: 100%;
   max-height: 100%;
